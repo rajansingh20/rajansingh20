@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include<string.h>
 #include<conio.h>
-#iclude<math.h>
+#include<math.h>
+#include<format>
 int main() 
 {
    printf("Hello, World!");
@@ -9,6 +10,6 @@ int main()
    printf("THIS IS NITIN GUPTA HERE !!");
    printf("Good Morning Everyone");
    printf("Hello Everyone");
-   printf("Today's date is 29 october 2022");
+   printf("Today's date is 29th October 2022");
    return 0;
 }
