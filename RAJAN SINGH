@@ -9,7 +9,7 @@ int main()
    printf("THIS IS RAJAN SINGH HERE !!");
    printf("THIS IS NITIN GUPTA HERE !!");
    printf("Good Morning Everyone");
-   printf("Hello Everyone");
+   printf("Hello Everyone!!");
    printf("Today's date is 29th October 2022");
    return 0;
 }
